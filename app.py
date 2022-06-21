@@ -4,7 +4,7 @@ from flask_socketio import SocketIO, emit
 from encryption import *
 
 
-APP_PASSWORD = 'leonardKleber'
+APP_PASSWORD = 'ChamHST'
 USER_LIST = []
 
 
